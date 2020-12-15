@@ -1,0 +1,7 @@
+Flask
+qanary_helpers
+requests
+json
+logging
+pickle
+SPARQLWrapper 
